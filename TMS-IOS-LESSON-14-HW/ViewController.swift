@@ -50,10 +50,4 @@ extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource {
 
         return myCell
     }
-    
-//    func collectionView(collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
-//        return CGSize(width: 20, height: 20)
-//    }
-    
-    
 }
